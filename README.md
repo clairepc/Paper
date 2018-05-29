@@ -1,2 +1,2 @@
-# Papers
-About Deep Learning, Machine Learning and NLP, etc.
+# Learning Resources
+Tutorials and papers about Deep Learning, Machine Learning, NLP and etc.
